@@ -5,8 +5,8 @@
 [![Typing](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2748C9&center=true&vCenter=true&width=560&lines=Full-stack+developer+from+Sri+Lanka;I+build+attendance%2C+e-commerce+%26+records+systems;Node.js+%C2%B7+PHP+%C2%B7+Java+%C2%B7+MySQL+%C2%B7+Stripe)](https://maryamfaiz01.github.io)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-maryamfaiz01.github.io-2748c9?style=for-the-badge&logo=googlechrome&logoColor=white)](https://maryamfaiz01.github.io)
-[![LinkedIn](http://linkedin.com/in/maryam-faiz-9395b0405)
-[![Email](maryam0028@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/maryam-faiz-9395b0405)
+[![Email](https://img.shields.io/badge/Email-Say%20hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](maryam0028@gmail.com)
 
 </div>
 
