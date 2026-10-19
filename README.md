@@ -38,7 +38,7 @@ I build software that real organisations use: scanning students into class with 
 |---|---|---|
 | 🪪 [**Attendance Bloom**](https://github.com/maryamfaiz01/attendance-bloom) | QR attendance for a training centre: roles, reports, CSV export, 14 tests | Node.js · Express · JWT |
 | 🛒 [**Modern Lanka Motors (store)**](https://github.com/maryamfaiz01/modern-lanka) | Toyota van parts store with **Stripe Checkout**, WhatsApp ordering and an admin panel | PHP · MySQL · Stripe |
-| 📱 [**Modern Lanka Motors (website)**](https://github.com/maryamfaiz01/modern-lanka-website) | Mobile-friendly parts showroom: 32 products, WhatsApp enquiries, TikTok. No payments | HTML · CSS · JavaScript |
+| 📱 [**Modern Lanka Motors (website)**](https://maryamfaiz01.github.io/modern_lanka_website/) | Mobile-friendly parts showroom: 32 products, WhatsApp enquiries, TikTok. No payments | HTML · CSS · JavaScript |
 | 🧑‍💼 [**Employee Management**](https://github.com/maryamfaiz01/Employee-Management) | Desktop app for employee records with login and search | Java · Swing · MySQL |
 
 ## 📊 GitHub stats
